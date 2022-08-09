@@ -4,7 +4,8 @@
   "description": "Practice writing tests.",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "testwatch": "jest --watchAll"
   },
   "repository": {
     "type": "git",
@@ -16,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/e-papanicolas/jest-testing/issues"
   },
-  "homepage": "https://github.com/e-papanicolas/jest-testing#readme"
+  "homepage": "https://github.com/e-papanicolas/jest-testing#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "jest": "^28.1.3"
+  }
 }
