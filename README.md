@@ -1,4 +1,4 @@
-# jest-testing
+# jest-testing 🤓
 
 Practice writing tests.
 
